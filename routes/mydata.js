@@ -3,7 +3,7 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('mydata', { title: 'Bindu Shiva Sri SaiLakshmi Kattabattula' });
+  res.render('mydata', { title: 'Bindu Shiva Sai Sri Lakshmi Kattabattula' });
 });
 
 module.exports = router;
